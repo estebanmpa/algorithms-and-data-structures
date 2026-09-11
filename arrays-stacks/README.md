@@ -92,8 +92,8 @@ Returns the top element without removing it. `O(1)`.
 
 ## Other topics
 
-- [Back to the main index](https://github.com/estebanmpa/algorithms-and-data-structures)
-- [Binary Search](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/binary-search)
-- [Linked Lists](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/linked-lists)
-- [Recursion](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/recursion)
-- [Sorting](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/sorting)
+- [Back to the main index](../README.md)
+- [Binary Search](../binary-search/) *(WIP — no notes yet)*
+- [Linked Lists](../linked-lists/README.md)
+- [Recursion](../recursion/README.md)
+- [Sorting](../sorting/README.md)

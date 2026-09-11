@@ -45,8 +45,8 @@ grows. It ignores constants and focuses on the shape of the growth.
 
 Each folder is a topic with its own notes and solved exercises.
 
-- [Arrays & Stacks](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/arrays-stacks)
-- [Binary Search](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/binary-search)
-- [Linked Lists](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/linked-lists)
-- [Recursion](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/recursion)
-- [Sorting](https://github.com/estebanmpa/algorithms-and-data-structures/tree/main/sorting)
+- [Arrays & Stacks](arrays-stacks/README.md)
+- [Binary Search](binary-search/) *(WIP — no notes yet)*
+- [Linked Lists](linked-lists/README.md)
+- [Recursion](recursion/README.md)
+- [Sorting](sorting/README.md)
