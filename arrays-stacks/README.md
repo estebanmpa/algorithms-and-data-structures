@@ -97,3 +97,4 @@ Returns the top element without removing it. `O(1)`.
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
 - [Sorting](../sorting/README.md)
+- [Trees](../trees/README.md)

@@ -199,3 +199,4 @@ it stays unstable.
 - [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
+- [Trees](../trees/README.md)

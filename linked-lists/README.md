@@ -161,3 +161,4 @@ class Queue {
 - [Binary Search](../binary-search/README.md)
 - [Recursion](../recursion/README.md)
 - [Sorting](../sorting/README.md)
+- [Trees](../trees/README.md)

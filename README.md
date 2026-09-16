@@ -1,4 +1,4 @@
-# algorithms-and-data-structures
+# Algorithms and Data Structures
 
 Personal notes and exercises about algorithms and data structures.
 
@@ -50,3 +50,4 @@ Each folder is a topic with its own notes and solved exercises.
 - [Linked Lists](linked-lists/README.md)
 - [Recursion](recursion/README.md)
 - [Sorting](sorting/README.md)
+- [Trees](trees/README.md)

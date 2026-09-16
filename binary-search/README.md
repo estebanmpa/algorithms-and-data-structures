@@ -31,3 +31,4 @@ In many problems, comparing the guess to the target is done by a predefined func
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
 - [Sorting](../sorting/README.md)
+- [Trees](../trees/README.md)
