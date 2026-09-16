@@ -158,6 +158,6 @@ class Queue {
 
 - [Back to the main index](../README.md)
 - [Arrays & Stacks](../arrays-stacks/README.md)
-- [Binary Search](../binary-search/) *(WIP — no notes yet)*
+- [Binary Search](../binary-search/README.md)
 - [Recursion](../recursion/README.md)
 - [Sorting](../sorting/README.md)

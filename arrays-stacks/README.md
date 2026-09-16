@@ -93,7 +93,7 @@ Returns the top element without removing it. `O(1)`.
 ## Other topics
 
 - [Back to the main index](../README.md)
-- [Binary Search](../binary-search/) *(WIP — no notes yet)*
+- [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
 - [Sorting](../sorting/README.md)

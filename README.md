@@ -46,7 +46,7 @@ grows. It ignores constants and focuses on the shape of the growth.
 Each folder is a topic with its own notes and solved exercises.
 
 - [Arrays & Stacks](arrays-stacks/README.md)
-- [Binary Search](binary-search/) *(WIP — no notes yet)*
+- [Binary Search](binary-search/README.md)
 - [Linked Lists](linked-lists/README.md)
 - [Recursion](recursion/README.md)
 - [Sorting](sorting/README.md)

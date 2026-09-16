@@ -196,6 +196,6 @@ it stays unstable.
 
 - [Back to the main index](../README.md)
 - [Arrays & Stacks](../arrays-stacks/README.md)
-- [Binary Search](../binary-search/) *(WIP — no notes yet)*
+- [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
