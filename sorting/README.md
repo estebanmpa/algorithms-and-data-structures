@@ -30,6 +30,8 @@ no exception. It is a simple algorithm that is easy to implement and understand.
 However, it is not the most efficient sorting algorithm when it comes to large data
 sets.
 
+![alt text](image.png)
+
 ### Time complexity
 
 - **Best case:** `O(n)` — if the array is already sorted, each element only needs
@@ -88,6 +90,8 @@ subarrays at a time. The final array will be fully sorted.
 This is a technique known as divide and conquer. We divide the problem into smaller
 subproblems, solve them, and then combine the solutions to get the final answer.
 
+![alt text](image-1.png)
+
 ### Time complexity
 
 - **Time:** `O(n log n)` in every case — the array is split in half `log n`
@@ -133,6 +137,8 @@ recursive step, but the complexity is in handling the merging of the two halves.
 Quick sort has a complex recursive step, but the complexity is in the partitioning
 step.
 
+![alt text](image-2.png)
+
 ### Time complexity
 
 - **Average case:** `O(n log n)` — with a reasonably balanced pivot, the array is
@@ -148,6 +154,8 @@ step.
 It is not as popular or widely used as the previous algorithms we have covered.
 Bucket sort works well when the dataset to be sorted has values within a specific
 range.
+
+![alt text](image-3.png)
 
 ### Concept
 
@@ -199,4 +207,5 @@ it stays unstable.
 - [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
+- [Sets & Maps](../sets-maps/README.md)
 - [Trees](../trees/README.md)

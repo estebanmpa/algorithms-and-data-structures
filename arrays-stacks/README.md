@@ -96,5 +96,6 @@ Returns the top element without removing it. `O(1)`.
 - [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
+- [Sets & Maps](../sets-maps/README.md)
 - [Sorting](../sorting/README.md)
 - [Trees](../trees/README.md)

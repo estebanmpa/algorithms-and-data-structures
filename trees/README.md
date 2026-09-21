@@ -21,6 +21,8 @@
     - [Inorder Traversal](#inorder-traversal)
     - [Preorder Traversal](#preorder-traversal)
     - [Postorder Traversal](#postorder-traversal)
+  - [Breadth First Search](#breadth-first-search)
+- [Exercises](#exercises)
 - [Other topics](#other-topics)
 
 ## Binary Tree
@@ -147,6 +149,35 @@ The order in which these nodes will be visited is: [2,3,5,7,6,4]
 
 ![alt text](image-10.png)
 
+### Breadth First Search
+In depth-first search, we prioritized depth. For breath-first search (BFS), we prioritize breadth, meaning we focus on visiting all the nodes on one level before moving on to the next level.
+
+BFS is also known as level-order traversal when referring to trees, since we visit the nodes level by level.
+
+1. Initially, we append the root node to our queue.
+2. We then enter a while loop that runs as long as our queue is not empty.
+3. We print the level we are currently on.
+4. We loop through the queue and remove nodes in the current level.
+5. If the node has children, we append them to the queue from left to right.
+6. After the current level is done, we increment the level by 1.
+7. Our queue becomes empty once we have visited all of the nodes and the outer while loop will terminate.
+
+The visual below demonstrates what the state of the queue at every level of the tree would look like. 
+
+![alt text](image-11.png)
+
+## Exercises
+
+- [binary-tree-inorder-traversal.js](binary-tree-inorder-traversal.js)
+- [binary-tree-level-order-traversal.js](binary-tree-level-order-traversal.js)
+- [binary-tree-right-side-view.js](binary-tree-right-side-view.js)
+- [height.js](height.js)
+- [insert.js](insert.js)
+- [is-balanced.js](is-balanced.js)
+- [kth-smallest-integer-in-bst.js](kth-smallest-integer-in-bst.js)
+- [remove.js](remove.js)
+- [trim-tree.js](trim-tree.js)
+
 ## Other topics
 
 - [Back to the main index](../README.md)
@@ -154,4 +185,5 @@ The order in which these nodes will be visited is: [2,3,5,7,6,4]
 - [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
 - [Recursion](../recursion/README.md)
+- [Sets & Maps](../sets-maps/README.md)
 - [Sorting](../sorting/README.md)

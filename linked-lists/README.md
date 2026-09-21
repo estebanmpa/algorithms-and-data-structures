@@ -160,5 +160,6 @@ class Queue {
 - [Arrays & Stacks](../arrays-stacks/README.md)
 - [Binary Search](../binary-search/README.md)
 - [Recursion](../recursion/README.md)
+- [Sets & Maps](../sets-maps/README.md)
 - [Sorting](../sorting/README.md)
 - [Trees](../trees/README.md)

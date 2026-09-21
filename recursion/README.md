@@ -75,5 +75,6 @@ be `n` function calls placed on the stack, which results in `O(n)` space.
 - [Arrays & Stacks](../arrays-stacks/README.md)
 - [Binary Search](../binary-search/README.md)
 - [Linked Lists](../linked-lists/README.md)
+- [Sets & Maps](../sets-maps/README.md)
 - [Sorting](../sorting/README.md)
 - [Trees](../trees/README.md)
